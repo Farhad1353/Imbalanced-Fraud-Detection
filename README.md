@@ -10,7 +10,7 @@ I have implemented Random Forest Classifier and Support Vector Classifier(SVC) a
 
 In order to execute this project and see all the process, visiualization, comments and flowchart diagram please run __Main__.ipynb.
 
-These are few of the references which helpped me with my project :
+These are few of the references which helped me with my project :
 
 1. https://towardsdatascience.com/sampling-techniques-for-extremely-imbalanced-data-part-i-under-sampling-a8dbc3d8d6d8
 
